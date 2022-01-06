@@ -1,0 +1,15 @@
+C:\Users\john.barker\gradebook\src\GradeBookz\bin\Debug\net6.0\GradeBookz.exe
+C:\Users\john.barker\gradebook\src\GradeBookz\bin\Debug\net6.0\GradeBookz.deps.json
+C:\Users\john.barker\gradebook\src\GradeBookz\bin\Debug\net6.0\GradeBookz.runtimeconfig.json
+C:\Users\john.barker\gradebook\src\GradeBookz\bin\Debug\net6.0\GradeBookz.dll
+C:\Users\john.barker\gradebook\src\GradeBookz\bin\Debug\net6.0\ref\GradeBookz.dll
+C:\Users\john.barker\gradebook\src\GradeBookz\bin\Debug\net6.0\GradeBookz.pdb
+C:\Users\john.barker\gradebook\src\GradeBookz\obj\Debug\net6.0\GradeBookz.csproj.AssemblyReference.cache
+C:\Users\john.barker\gradebook\src\GradeBookz\obj\Debug\net6.0\GradeBookz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john.barker\gradebook\src\GradeBookz\obj\Debug\net6.0\GradeBookz.AssemblyInfoInputs.cache
+C:\Users\john.barker\gradebook\src\GradeBookz\obj\Debug\net6.0\GradeBookz.AssemblyInfo.cs
+C:\Users\john.barker\gradebook\src\GradeBookz\obj\Debug\net6.0\GradeBookz.csproj.CoreCompileInputs.cache
+C:\Users\john.barker\gradebook\src\GradeBookz\obj\Debug\net6.0\GradeBookz.dll
+C:\Users\john.barker\gradebook\src\GradeBookz\obj\Debug\net6.0\ref\GradeBookz.dll
+C:\Users\john.barker\gradebook\src\GradeBookz\obj\Debug\net6.0\GradeBookz.pdb
+C:\Users\john.barker\gradebook\src\GradeBookz\obj\Debug\net6.0\GradeBookz.genruntimeconfig.cache
